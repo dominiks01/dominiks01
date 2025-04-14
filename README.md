@@ -34,4 +34,4 @@ I am a **Computer Science student** from **Poland**.
 
 ### 🌱 A Bit About Me:
 
-I have a strong interest in **software development** and the technical aspects of **computer graphics**. Currently, I’m focused on building skills in **software development** and expanding my knowledge in various programming languages and frameworks.
+I have a strong interest in **software development**, the technical aspects of **computer graphics**, and the growing field of **DevOps**. Currently, I’m focused on building skills in **software development** while also expanding my knowledge in various **programming languages**, **frameworks**, and **DevOps practices**.
