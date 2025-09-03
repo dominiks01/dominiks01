@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there
 
 I am a **Computer Science student** from **Poland**.
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -32,6 +32,6 @@ I am a **Computer Science student** from **Poland**.
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ---
 
-### 🌱 A Bit About Me:
+### A Bit About Me:
 
 I have a strong interest in **software development**, the technical aspects of **computer graphics**, and the growing field of **DevOps**. Currently, I’m focused on building skills in **software development** while also expanding my knowledge in various **programming languages**, **frameworks**, and **DevOps practices**.
