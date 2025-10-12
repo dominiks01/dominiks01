@@ -1,17 +1,15 @@
 ## Hi there
 
+### A Bit About Me:
+
 I am a **Computer Science student** from **Poland**.
+I have a strong interest in **Software Development**, **Automation**, and **Cloud Infrastructure**.
 
 ### Languages and Tools:
 
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -31,7 +29,3 @@ I am a **Computer Science student** from **Poland**.
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ---
-
-### A Bit About Me:
-
-I have a strong interest in **software development**, the technical aspects of **computer graphics**, and the growing field of **DevOps**. Currently, I’m focused on building skills in **software development** while also expanding my knowledge in various **programming languages**, **frameworks**, and **DevOps practices**.
