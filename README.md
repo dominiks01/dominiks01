@@ -29,3 +29,5 @@ I have a strong interest in **Software Development**, **Automation**, and **Clou
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominiks01&layout=compact)
