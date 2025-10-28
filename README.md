@@ -2,10 +2,15 @@
 
 ### A Bit About Me:
 
-I am a **Computer Science student** from **Poland**.
-I have a strong interest in **Software Development**, **Automation**, and **Cloud Infrastructure**.
+I am a Computer Science student, currently pursuing my master's degree.
 
-### Languages and Tools:
+### I am passionate about:
+* DevOps
+* Cloud Infrastructure
+* Automation
+* Overall Software Engenerring
+
+### Languages and Tools I am most familiar with:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
